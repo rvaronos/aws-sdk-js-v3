@@ -1,7 +1,7 @@
 {
   "name": "@rvaronos/client-cognito-identity",
   "description": "@aws-sdk/client-cognito-identity client",
-  "version": "1.0.0-gamma.9",
+  "version": "1.0.0-gamma.11",
   "repository" : {
     "type" : "git",
     "url": "ssh://git@github.com/rvaronos/aws-sdk-js-v3.git",
